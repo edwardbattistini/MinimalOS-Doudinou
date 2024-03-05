@@ -18,3 +18,9 @@ as mentioned [here](https://onionui.github.io/docs/theme-design#theme-overrides)
 ### Release 1
 
 [ZIP File ](Theme-MinimalOS.zip)
+
+### FIGMA theme file
+
+I may release it to the community if people request it
+
+[FIGMA FILE](https://www.figma.com/file/1DrDikIH6lo8RuhxXf3doM/Minimal-OS---Figma-Template?type=design&node-id=0%3A1&mode=design&t=6srTkUAmQYUvuD6D-1)
