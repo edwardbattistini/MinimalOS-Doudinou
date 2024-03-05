@@ -1,3 +1,3 @@
 # Minimal-techno
 
-![Preview](/Theme/preview.png)
+![Preview](preview.png)
