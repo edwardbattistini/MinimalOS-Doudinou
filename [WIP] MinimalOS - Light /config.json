@@ -1,0 +1,29 @@
+{
+	"name": "MinimalOS - Doudinou - Light",
+	"hideIconTitle": true,
+	"batteryPercentage": {
+		"visible": false,
+		"font": "Inter-Light.ttf",
+		"size": 8,
+		"color": "#1c1917",
+		"textAlign": "center",
+		"fixed": false,
+		"offsetX": 0,
+		"offsetY": 0
+	},
+	"author": "Doudinou",
+	"description": "Minimal theme for the minimalist techno people",
+	"hideLabels": { "icons": true, "hints": false },
+	"title": { "font": "Inter-Light.ttf", "size": 20, "color": "#1c1917" },
+	"hint": { "font": "Inter-Light.ttf", "size": 16, "color": "#1c1917" },
+	"currentpage": { "color": "#1c1917" },
+	"total": { "color": "#1c1917" },
+	"grid": {
+		"font": "Inter-Light.ttf",
+		"grid1x4": 16,
+		"grid3x4": 12,
+		"color": "#E7E5E4",
+		"selectedcolor": "#E7E5E4"
+	},
+	"list": { "font": "Inter-Light.ttf", "size": 20, "color": "#1c1917" }
+}
